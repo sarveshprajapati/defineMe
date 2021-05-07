@@ -1,0 +1,23 @@
+{
+  "name": "sarveshprajapati",
+  "version": "1.0.0",
+  "description": "Just about myself :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarveshprajapati/defineMe.git"
+  },
+  "keywords": [
+    "define",
+    "introduce"
+  ],
+  "author": "Sarvesh Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarveshprajapati/defineMe/issues"
+  },
+  "homepage": "https://github.com/sarveshprajapati/defineMe#readme"
+}

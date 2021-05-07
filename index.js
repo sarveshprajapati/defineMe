@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log(`
         Hey there, I am Sarvesh Prajapati 🙄.
 
@@ -13,4 +14,3 @@ console.log(`
 
         So yeah, that's pretty much about me :)
     `);
-
